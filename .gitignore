@@ -1,6 +1,5 @@
 [Bb]in/
 [Oo]bj/
-BenchmarkDotNet.Artifacts/
 .vs/
 .vscode/
 *.user
